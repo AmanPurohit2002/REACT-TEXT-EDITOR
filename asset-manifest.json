@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/css/main.84babaff.css",
+    "main.js": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/js/main.79a4491a.js",
+    "static/js/787.8e8b051b.chunk.js": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/js/787.8e8b051b.chunk.js",
+    "index.html": "/AmanPurohit2002/REACXT-TEXT-EDITOR/index.html",
+    "main.84babaff.css.map": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/css/main.84babaff.css.map",
+    "main.79a4491a.js.map": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/js/main.79a4491a.js.map",
+    "787.8e8b051b.chunk.js.map": "/AmanPurohit2002/REACXT-TEXT-EDITOR/static/js/787.8e8b051b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84babaff.css",
+    "static/js/main.79a4491a.js"
+  ]
+}
